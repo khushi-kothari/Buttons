@@ -1,0 +1,26 @@
+.container-2 {
+    margin: 30 auto;
+    width:75%;
+    text-align: center;
+}
+
+#cat-button {
+    margin-top: 10px;
+}
+
+.flex-box-container-2 {
+    display:flex;
+    
+    padding: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flex-box-container-2 img {
+    height:30%;
+    width:30%;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 7);
+    margin-top: 20px;
+}
+
+
